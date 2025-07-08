@@ -10,7 +10,6 @@ This repository is written in Python and is intended to serve as a foundation fo
 
 - 100% Python codebase.
 - Public and open for forking or contributions.
-- Suitable for experimentation with transformer models or data transformation tasks.
 
 ## Getting Started
 
@@ -20,7 +19,7 @@ git clone https://github.com/vibhor-5/transformer.git
 cd transformer
 ```
 
-(Installation and usage instructions would typically follow here. Please add details based on the actual code in your repository.)
+# This is onlt the architecture of the model implemented for a clearer understanding of the model and the self attention process .
 
 ## Contributing
 
